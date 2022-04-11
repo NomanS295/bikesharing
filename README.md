@@ -2,7 +2,6 @@
 An analysis of NYC CitiBike bikesharing data from August, 2019, with Tableau
 
 ## Overview
-This Tableau story can be seen, in its entirety, [at this link](https://public.tableau.com/views/NYCCitiBikeAnalysischallenge/NYCCitiBikeAnalysis?:language=en&:display_count=y&publish=yes&:toolbar=n&:origin=viz_share_link).
 
 The framework for this project was to analyze bikeshare data from CitiBike in New York City for presentation to investors looking to begin a bikeshare program in Des Moines, Iowa. While Des Moines is a long way away from the hustle and bustle of NYC, this analysis might help answer a few key questions:
 - Who uses bikeshare programs?
@@ -52,7 +51,7 @@ This breakdown of number of rides by duration, separated by gender, makes it eve
 
 Lastly, this heatmap reinforces how much of the userbase is dominated by male-identifying, subscribing users. Why this is the case is unclear and warrants additional study.
 
-There are one or two additional charts available in the Tableau analysis, but they tell pretty much the same story that has already been displayed above.
+
 
 ## Summary
 In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
